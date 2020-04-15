@@ -84,8 +84,10 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
     }
     final regions = <Region>[
       Region(
-        identifier: 'Cubeacon',
-        proximityUUID: 'CB10023F-A318-3394-4199-A8730C7C1AEC',
+        //identifier: 'Cubeacon',
+        identifier: 'BeaconSuedtirol',
+        //proximityUUID: 'CB10023F-A318-3394-4199-A8730C7C1AEC',
+        proximityUUID: '6a84c716-0f2a-1ce9-f210-6a63bd873dd9',
       ),
     ];
 

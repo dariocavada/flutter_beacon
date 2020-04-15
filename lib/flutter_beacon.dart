@@ -1,6 +1,7 @@
 //  Copyright (c) 2018 Eyro Labs.
 //  Licensed under Apache License v2.0 that can be
 //  found in the LICENSE file.
+//  MODI: Dario Cavada 2020
 
 library flutter_beacon;
 
